@@ -1,9 +1,12 @@
  <h1 align="center">Hi 👋, I'm Rabina Vishwakarma</h1>
 
-- 🌱 I’m currently learning Java Backend
-- 💬 Ask me anything about C++
+
+- 🌱  An aspiring Java Developer with a passion for creating dynamic web applications.
+- 💻 I’m currently learning Java, MySQL, and XAMPP to build full-stack projects.
+-   🚀 My goal is to become a skilled Java Backend Developer.
+-  🔨 I’m currently working on small projects to sharpen my development skills.
 - 📫 How to reach me: rabinamothupur@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact:  I love problem-solving and enjoy exploring new technologies.
   
 ### Connect with me:
 <div id="badges">
