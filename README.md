@@ -13,8 +13,7 @@
   <a href="(https://github.com/rabina-vishwakarma)">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   
-    <a href="(https://in.linkedin.com/in/rabina-vishwakarma)">
+   <a href="(https://in.linkedin.com/in/rabina-vishwakarma)">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
   
